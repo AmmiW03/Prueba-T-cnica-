@@ -1,0 +1,6 @@
+@APItodo_HostAddress = http://localhost:5263
+
+GET {{APItodo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
