@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\bin\Debug\net8.0\Prueba técnica - AMMI WANG.exe
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\bin\Debug\net8.0\Prueba técnica - AMMI WANG.deps.json
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\bin\Debug\net8.0\Prueba técnica - AMMI WANG.runtimeconfig.json
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\bin\Debug\net8.0\Prueba técnica - AMMI WANG.dll
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\bin\Debug\net8.0\Prueba técnica - AMMI WANG.pdb
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\obj\Debug\net8.0\Prueba técnica - AMMI WANG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\obj\Debug\net8.0\Prueba técnica - AMMI WANG.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\obj\Debug\net8.0\Prueba técnica - AMMI WANG.AssemblyInfo.cs
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\obj\Debug\net8.0\Prueba técnica - AMMI WANG.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\obj\Debug\net8.0\Prueba técnica - AMMI WANG.dll
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\obj\Debug\net8.0\refint\Prueba técnica - AMMI WANG.dll
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\obj\Debug\net8.0\Prueba técnica - AMMI WANG.pdb
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\obj\Debug\net8.0\Prueba técnica - AMMI WANG.genruntimeconfig.cache
+C:\Users\PC\source\repos\Prueba técnica - AMMI WANG\Prueba técnica - AMMI WANG\obj\Debug\net8.0\ref\Prueba técnica - AMMI WANG.dll

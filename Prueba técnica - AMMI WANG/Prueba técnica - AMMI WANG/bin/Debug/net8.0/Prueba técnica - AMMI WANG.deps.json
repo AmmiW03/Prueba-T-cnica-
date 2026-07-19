@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prueba técnica - AMMI WANG/1.0.0": {
+        "runtime": {
+          "Prueba técnica - AMMI WANG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba técnica - AMMI WANG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
